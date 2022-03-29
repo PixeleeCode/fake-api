@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "624351a887ff2427b7c2969d",
+    "name": "Pansy Goff",
+    "company": "COMBOGEN",
+    "email": "pansygoff@combogen.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dixie Terry"
+      },
+      {
+        "id": 1,
+        "name": "Megan Morgan"
+      },
+      {
+        "id": 2,
+        "name": "Massey Blackburn"
+      }
+    ]
+  },
+  {
+    "_id": "624351a8ac1a540454823237",
+    "name": "Barrera Hendricks",
+    "company": "BLEENDOT",
+    "email": "barrerahendricks@bleendot.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Maryann Dunlap"
+      },
+      {
+        "id": 1,
+        "name": "Jerri Solomon"
+      },
+      {
+        "id": 2,
+        "name": "Hamilton Newman"
+      }
+    ]
+  },
+  {
+    "_id": "624351a838f7be3e275f12b7",
+    "name": "Ida Golden",
+    "company": "APPLICA",
+    "email": "idagolden@applica.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Isabelle Russo"
+      },
+      {
+        "id": 1,
+        "name": "Blackwell Sexton"
+      },
+      {
+        "id": 2,
+        "name": "Elsie Ayers"
+      }
+    ]
+  },
+  {
+    "_id": "624351a87c7e84e0abdae17b",
+    "name": "Nunez Leonard",
+    "company": "AVIT",
+    "email": "nunezleonard@avit.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Socorro Cole"
+      },
+      {
+        "id": 1,
+        "name": "Annabelle Carlson"
+      },
+      {
+        "id": 2,
+        "name": "Campbell Mcpherson"
+      }
+    ]
+  },
+  {
+    "_id": "624351a855ee14814821d481",
+    "name": "Carpenter Reynolds",
+    "company": "FIREWAX",
+    "email": "carpenterreynolds@firewax.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gill Erickson"
+      },
+      {
+        "id": 1,
+        "name": "Walters Shields"
+      },
+      {
+        "id": 2,
+        "name": "Tabatha Osborne"
+      }
+    ]
+  },
+  {
+    "_id": "624351a8e6b0255e7e760681",
+    "name": "Taylor Rowe",
+    "company": "GLOBOIL",
+    "email": "taylorrowe@globoil.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Burns Casey"
+      },
+      {
+        "id": 1,
+        "name": "Anne Tucker"
+      },
+      {
+        "id": 2,
+        "name": "Wilder Thompson"
+      }
+    ]
+  },
+  {
+    "_id": "624351a8b402d189a30048b6",
+    "name": "Lauren Rios",
+    "company": "ORBALIX",
+    "email": "laurenrios@orbalix.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rodriquez Blankenship"
+      },
+      {
+        "id": 1,
+        "name": "Weeks Barnes"
+      },
+      {
+        "id": 2,
+        "name": "Miller Garrison"
+      }
+    ]
+  },
+  {
+    "_id": "624351a8db3662faa0ae3b06",
+    "name": "Martin Fuller",
+    "company": "PYRAMIA",
+    "email": "martinfuller@pyramia.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bertie Wolfe"
+      },
+      {
+        "id": 1,
+        "name": "Dolly Woodward"
+      },
+      {
+        "id": 2,
+        "name": "Carolyn Simon"
+      }
+    ]
+  },
+  {
+    "_id": "624351a88075ed38dc3cc963",
+    "name": "Tamera Carey",
+    "company": "UNEEQ",
+    "email": "tameracarey@uneeq.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Pierce Horn"
+      },
+      {
+        "id": 1,
+        "name": "Rhoda Keith"
+      },
+      {
+        "id": 2,
+        "name": "Hodge Goodman"
+      }
+    ]
+  }
+]
